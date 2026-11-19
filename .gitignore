@@ -4,3 +4,7 @@ dist/
 .agents/
 .claude/
 .windsurf/
+*.db
+*.db-journal
+src/generated/
+generated/
